@@ -7,7 +7,7 @@ This is a basic repository about how to use git and github at the same time, als
 
 ## Configuration and installation
 
-This repository don't need any configuration or installation, because as I said before, it is just made for practicing and learning git.
+This repository does't need any configuration or installation, because as I said before, it is just made for practicing and learning git.
 
 ## Licensing Terms of Use
 
